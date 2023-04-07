@@ -1,8 +1,11 @@
 # Eyes
 ## Exercise on eyes
+Interactive page where eyes follow your mouse around.
+
 <img src= "oneeye.png" width='300'/>
 
 ## How to Run:
+Drag HTML page into browser window. Move your mouse to see how the Eyes follow your mouse.
 
 ## RoadMap:
 Change the eye movement so it can focus and come together when the mouse is in the center between the eyes
