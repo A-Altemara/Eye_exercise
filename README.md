@@ -1,6 +1,6 @@
 # Eyes
 ## Exercise on eyes
-Interactive page where eyes follow your mouse around.
+Interactive page where eyes follow your mouse around. This program uses x and y cordinates and listeners to track mouse movements.  The number of eyes can be increased in the code as long as the loop is increased in addition.
 
 <img src= "oneeye.png" width='300'/>
 
